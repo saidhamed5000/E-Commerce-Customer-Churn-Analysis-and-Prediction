@@ -7,7 +7,7 @@
 - The output to be generated is a prediction of the churn status of a customer. If you can predict which customer will churn, you can help the marketing team to develop marketing strategies in an effort to avoid losses in the form of losing customers.
 
 
-- Recommendations
+- ### Recommendations
 
 - 
 - Should consider that the higher percntage are males, so should incresing the products that grap the males interest and so on.
